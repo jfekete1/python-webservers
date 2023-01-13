@@ -11,5 +11,5 @@ python3 simpleHTTP3.py
 To Download a file from your webserver use: 
 curl -O http://<server-IP>:9999/<FILENAME>
 
-#  Upload a file back to your attack device: 
+To Upload a file back to your webserver use: 
 curl -F 'file=@<FILENAME>' http://<server-IP>:9999/
