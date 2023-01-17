@@ -13,3 +13,5 @@ curl -O http://server-IP:9999/FILENAME
 
 To Upload a file back to your webserver use: 
 curl -F 'file=@FILENAME' http://server-IP:9999/
+
+You can also modify simpleHTTP3.py to work as the previous version using a GUI.
