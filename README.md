@@ -15,3 +15,4 @@ To Upload a file back to your webserver use:
 curl -F 'file=@FILENAME' http://server-IP:9999/
 
 You can also modify simpleHTTP3.py to work as the previous version using a GUI.
+For more information on any topic ask e-servant chatbot at https://e-servant.com/
